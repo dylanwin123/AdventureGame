@@ -17,7 +17,6 @@ namespace AdventureGame
             characterBuild.SetName();
             Console.WriteLine();
             Console.WriteLine("Press enter to close ");
-            Console.WriteLine("uh uh merge conflic");
         }
 
     }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|solutionrelative:characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|solutionrelative:characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|MessAround.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|c:\\users\\awsom\\source\\repos\\dylanwin123\\adventuregame\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C19DD48-C847-4F22-8E6B-1363F9875AD1}|AdventureGame.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:26:17.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:26:17.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T21:25:33.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Characters.cs",
               "DocumentMoniker": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\Characters.cs",
               "RelativeDocumentMoniker": "Characters.cs",
