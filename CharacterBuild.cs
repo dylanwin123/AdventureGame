@@ -39,3 +39,4 @@ namespace AdventureGame
             Console.Write(nameOfCharacter);
         }
     }
+}
