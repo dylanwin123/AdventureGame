@@ -1,0 +1,15 @@
+C:\Users\awsom\source\repos\MessAround\MessAround\bin\Debug\net8.0\MessAround.deps.json
+C:\Users\awsom\source\repos\MessAround\MessAround\bin\Debug\net8.0\MessAround.dll
+C:\Users\awsom\source\repos\MessAround\MessAround\bin\Debug\net8.0\MessAround.pdb
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.AssemblyInfoInputs.cache
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.AssemblyInfo.cs
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.csproj.CoreCompileInputs.cache
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.dll
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\refint\MessAround.dll
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.pdb
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\ref\MessAround.dll
+C:\Users\awsom\source\repos\MessAround\MessAround\bin\Debug\net8.0\MessAround.exe
+C:\Users\awsom\source\repos\MessAround\MessAround\bin\Debug\net8.0\MessAround.runtimeconfig.json
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.genruntimeconfig.cache
+C:\Users\awsom\source\repos\MessAround\MessAround\obj\Debug\net8.0\MessAround.sourcelink.json
