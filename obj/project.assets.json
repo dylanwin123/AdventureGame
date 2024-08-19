@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awsom\\source\\repos\\MessAround\\MessAround\\MessAround.csproj",
-      "projectName": "MessAround",
-      "projectPath": "C:\\Users\\awsom\\source\\repos\\MessAround\\MessAround\\MessAround.csproj",
+      "projectUniqueName": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\AdventureGame.csproj",
+      "projectName": "AdventureGame",
+      "projectPath": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\AdventureGame.csproj",
       "packagesPath": "C:\\Users\\awsom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awsom\\source\\repos\\MessAround\\MessAround\\obj\\",
+      "outputPath": "C:\\Users\\awsom\\source\\repos\\dylanwin123\\AdventureGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
